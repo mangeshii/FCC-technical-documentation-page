@@ -1,0 +1,55 @@
+  @media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+#navbar{
+  height:100%;
+  width:390px;
+   background-color: #f1f1f1;
+  position:fixed;
+  padding-right:10px;
+  font-family:sans-serif,arial;
+  padding:20px;
+  margin:0px;
+  
+}
+#main-doc{
+  width:75%;
+  
+  margin-left:26%;
+  margin-right:50px;
+  padding:35px;
+  padding-left:0;
+    
+  
+}
+
+  
+
+.em{
+  font-size:35px;
+  border-bottom:1px solid;
+ 
+  
+  
+}
+.pp{
+    text-decoration: none;
+color:black;
+  
+ 
+}
+.pp:hover{
+  color:red;
+}
+.mp{
+  font-size:25px;
+   font-weight:bold;
+   background-color: #f1f1f1;
+  padding:10px;
+}
+    
+  
+  
